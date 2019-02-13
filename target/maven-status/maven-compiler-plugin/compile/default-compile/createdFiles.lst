@@ -1,0 +1,9 @@
+net\tarjeta\TarjetaApplication.class
+net\tarjeta\client\TarjetaClient.class
+net\tarjeta\model\Informe.class
+net\tarjeta\model\Sco.class
+net\tarjeta\model\Tarjeta.class
+net\tarjeta\model\Squa.class
+net\tarjeta\model\Operacion.class
+net\tarjeta\model\Pere.class
+net\tarjeta\TarjetaClaseEjecutable.class
